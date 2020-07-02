@@ -118,6 +118,18 @@ a:hover {
   vertical-align: middle;
 }
 
+.resume {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #e7e7e7;
+  border-radius: 10px;
+  width: 200px;
+  height: 50px;
+  margin: 0 auto;
+
+}
+
 /*--/ Sections /--*/
 
 .sect-4 {
